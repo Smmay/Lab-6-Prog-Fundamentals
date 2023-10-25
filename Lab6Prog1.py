@@ -1,5 +1,4 @@
 # Riley Tromer
-# Ethan Chestnut
 code = True
 while code:
   print("Menu\n-------------\n1. Encode\n2. Decode\n3. Quit")
@@ -7,9 +6,7 @@ while code:
   option_number = int(input())
   if option_number == 1:
       # encode
-    pass
   if option_number == 2:
       # decode
-    pass
   if option_number == 3:
     code = False
