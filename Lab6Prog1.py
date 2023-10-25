@@ -8,6 +8,6 @@ while code:
   if option_number == 1:
       # encode
   if option_number == 2:
-      # decode
+      # decode 1
   if option_number == 3:
     code = False
