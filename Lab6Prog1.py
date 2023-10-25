@@ -1,4 +1,5 @@
 # Riley Tromer
+# Ethan Chestnut
 code = True
 while code:
   print("Menu\n-------------\n1. Encode\n2. Decode\n3. Quit")
